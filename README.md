@@ -4,7 +4,7 @@ Kabadiwala Connect is a platform designed to streamline waste collection by conn
 
 ### Bringing the Informal Collector into the Formal Recycling Chain
 
-> **Smart India Hackathon 2026 — SIH26229**
+> 
 > **Theme:** Clean & Green Technology
 
 ---
